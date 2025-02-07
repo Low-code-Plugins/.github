@@ -2,6 +2,8 @@
 
 # Low Code Plugins
 
-Low Code Plugins provides plugins to extend the features of low-code platforms.
+🔗 www.lowcodeplugins.com
 
-www.lowcodeplugins.com
+## About
+
+Low Code Plugins provides plugins to extend the features of low-code platforms.
